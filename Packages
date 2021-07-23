@@ -40,3 +40,16 @@ Section: system
 Priority: optional
 Description: Welcome to UbuntuCE
 
+Package: worship-extreme-presenter
+Version: 0.0.1
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Filename: ./worship-extreme-presenter_0.0.1_all.deb
+Size: 138811872
+MD5sum: 52f468a4bd2de6f39e0ae275e9005a58
+SHA1: 62b4dea43f39dfc2684a3e0abe116969f1a996c8
+SHA256: 4ddfdb819e3def5afa07f5af1f108e2712c546cab0a790efa984e8a971efb829
+Section: web
+Priority: optional
+Description: WorshipExtreme Presenter
+
