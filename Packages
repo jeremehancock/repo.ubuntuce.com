@@ -16,12 +16,12 @@ Package: ubuntu-ce-wallpapers
 Version: 0.0.1
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
-Installed-Size: 3170
-Filename: ./Ubuntu-CE-Wallpapers_0.0.1_all.deb
-Size: 1682464
-MD5sum: 7d069282ffbbc2a90ccfa63a7ace474b
-SHA1: 06031d22e118cca5fe7c85e629011205564ab2e9
-SHA256: bcff435f4f04eba1c480e7ef0dcce866fbc5fecb1afcadc4b39cbee38c1adc5e
+Installed-Size: 12900
+Filename: ./ubuntu-ce-wallpapers_0.0.1_all.deb
+Size: 12763836
+MD5sum: 39332ba1fd2c3697b87fe2f1e47ec6c1
+SHA1: 697fc1b89fef7f954fc08b4dfa4d58a96312f17e
+SHA256: 671e83cfb134b1120621408ba1191506f8d0a2a1cb4538fabb3e6756e79f1094
 Section: x11
 Priority: optional
 Description: Christian Wallpapers for Ubuntu CE
@@ -30,12 +30,13 @@ Package: ubuntu-ce-welcome
 Version: 0.0.1
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 1300
 Depends: gambas3-runtime, gambas3-gb-gtk, gambas3-gb-gui, gambas3-gb-form, hostminder
 Filename: ./ubuntu-ce-welcome_0.0.1_all.deb
-Size: 382608
-MD5sum: b397fa0cbbea0da3ad35fd742a65f1e7
-SHA1: f46d4e6779145cee7b821410b1ceaa84b92af6fc
-SHA256: 2b1dff1d77dea844f7727cd591af1578ada87995d4b8ed702d08e69d06d4dcb7
+Size: 614556
+MD5sum: b046e7b4551c35aa91c7499618a2cca0
+SHA1: 83bb94dc36457fa93004f764904dc03d9658af2f
+SHA256: 202ea40a6fe24c8881f552e40441a815b27e11dbbe588deb399052665915ede0
 Section: system
 Priority: optional
 Description: Welcome to UbuntuCE
@@ -44,11 +45,12 @@ Package: worship-extreme-presenter
 Version: 0.0.1
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 139000
 Filename: ./worship-extreme-presenter_0.0.1_all.deb
-Size: 138811872
-MD5sum: 52f468a4bd2de6f39e0ae275e9005a58
-SHA1: 62b4dea43f39dfc2684a3e0abe116969f1a996c8
-SHA256: 4ddfdb819e3def5afa07f5af1f108e2712c546cab0a790efa984e8a971efb829
+Size: 138815336
+MD5sum: c7255334f79d464facb41f53a059e3ba
+SHA1: 52f70295682557daf30666b793982beb0724acea
+SHA256: ed4256040e47c8d264ac80317d66c9f5c19057404aa811cfa3b698461dc8e8ff
 Section: web
 Priority: optional
 Description: WorshipExtreme Presenter
