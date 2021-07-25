@@ -33,10 +33,10 @@ Maintainer: Jereme Hancock <support@ubuntuce.com>
 Installed-Size: 1300
 Depends: gambas3-runtime, gambas3-gb-gtk, gambas3-gb-gui, gambas3-gb-form, hostminder
 Filename: ./ubuntu-ce-welcome_0.0.1_all.deb
-Size: 614556
-MD5sum: b046e7b4551c35aa91c7499618a2cca0
-SHA1: 83bb94dc36457fa93004f764904dc03d9658af2f
-SHA256: 202ea40a6fe24c8881f552e40441a815b27e11dbbe588deb399052665915ede0
+Size: 614560
+MD5sum: 5a933b8282c87e091b39fd58a8b89069
+SHA1: aa35acc230e72e3d3469f586b66b6e382c3f23b7
+SHA256: c5ae697d88d4463a7404bc7f14e06c49a1af69b5b9d72906b50fa2cb2f2dc91d
 Section: system
 Priority: optional
 Description: Welcome to UbuntuCE
