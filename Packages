@@ -12,6 +12,21 @@ Section: web
 Priority: optional
 Description: Host Minder
 
+Package: hostminder
+Version: 0.0.2
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 51.7
+Depends: zenity
+Filename: ./hostminder_0.0.2_all.deb
+Size: 8748
+MD5sum: 90890e7c410eb519184f691bbcc64009
+SHA1: 180bbb7be0254ac2de20934d3591ea6f1e176c00
+SHA256: 04a921e681d5780127ba14b3e39f2b5d78d64806151234d2d2759f0ce9552abb
+Section: web
+Priority: optional
+Description: Host Minder
+
 Package: ubuntu-ce-wallpapers
 Version: 0.0.1
 Architecture: all
