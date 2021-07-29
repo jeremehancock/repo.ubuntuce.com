@@ -85,3 +85,18 @@ Section: web
 Priority: optional
 Description: WorshipExtreme Presenter
 
+Package: worship-extreme-presenter
+Version: 0.0.2
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 139000
+Depends: zenity, curl, jq, wget
+Filename: ./worship-extreme-presenter_0.0.2_all.deb
+Size: 138816052
+MD5sum: c0cda1cdb40625a2d7bc22590f5b846f
+SHA1: 2cb66a5950f5df0281da2b36f5cfd74be28956e4
+SHA256: c4467949feeb6d037e5b9602fdc4ac5929e498bd1c9f92fc934e4287d78bb3df
+Section: web
+Priority: optional
+Description: WorshipExtreme Presenter
+
