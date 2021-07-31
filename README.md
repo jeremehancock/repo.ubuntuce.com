@@ -10,9 +10,9 @@ Including:
 - [Host Minder](https://github.com/mhancoc7/hostminder#readme)
 - [WorshipExtreme Presenter](https://github.com/mhancoc7/worship-extreme-presenter#readme)
 
-If you are already running Ubuntu you can use the instructions below to add the UbuntuCE repo and the UbuntuCE packages.
+Already running Ubuntu? Use the instructions below to added UbuntuCE	
 
-## Usage
+## Add UbuntuCE Repo and Packages
 
 #### Add UbuntuCE Repo Key
 `curl -s --compressed "https://repo.ubuntuce.com/KEY.gpg" | sudo apt-key add -`
@@ -26,7 +26,9 @@ If you are already running Ubuntu you can use the instructions below to add the 
 #### Install UbuntuCE Packages
 `sudo apt install hostminder ubuntu-ce-wallpapers ubuntu-ce-welcome worship-extreme-presenter`
 
+---
 ##### UbuntuCE is packaged with additional packages outside of the UbuntuCE Repo.
+---
 
 ## Add Additional Packages included in UbuntuCE
 
