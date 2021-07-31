@@ -57,5 +57,5 @@ Already running Ubuntu? Use the instructions below to added UbuntuCE
 
 `sudo resolvconf -u`
 
-Note: Setting up CleanBrowsing will be making changes to your system's network settings. The above commands work on a default Ubuntu installation. 
+Note: *Setting up CleanBrowsing will be making changes to your system's network settings. The above commands work on a default Ubuntu installation.* 
 
