@@ -19,7 +19,7 @@ If you are already running Ubuntu you can use the instructions below to add the 
 `sudo apt update`
 `sudo apt install hostminder ubuntu-ce-wallpapers ubuntu-ce-welcome worship-extreme-presenter`
 
-UbuntuCE is packaged with additional packages outside of the UbuntuCE Repo.
+### UbuntuCE is packaged with additional packages outside of the UbuntuCE Repo.
 
 ## Add Additional Packages included in UbuntuCE
 
