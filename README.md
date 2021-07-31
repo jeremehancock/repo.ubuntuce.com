@@ -14,12 +14,16 @@ If you are already running Ubuntu you can use the instructions below to add the 
 
 ## Usage
 
+### Add UbuntuCE Repo Key
 `curl -s --compressed "https://repo.ubuntuce.com/KEY.gpg" | sudo apt-key add -`
 
+### Add UbuntuCE Repo
 `sudo curl -s --compressed -o /etc/apt/sources.list.d/ubuntuce.list "https://repo.ubuntuce.com/ubuntuce.list"`
 
+### Update Packages
 `sudo apt update`
 
+### Install UbuntuCE Packages
 `sudo apt install hostminder ubuntu-ce-wallpapers ubuntu-ce-welcome worship-extreme-presenter`
 
 #### UbuntuCE is packaged with additional packages outside of the UbuntuCE Repo.
