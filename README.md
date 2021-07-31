@@ -1,14 +1,14 @@
 # UbuntuCE Repo
 
-This is the repo for [UbuntuCE!](https://ubuntuce.com/)
+This is the repo for [UbuntuCE](https://ubuntuce.com/).
 
 It contains all of the UbuntuCE specific pagkages.
 
 Including:
-[UbuntuCE Welcome!](https://github.com/mhancoc7/ubuntu-ce-welcome#readme)
-[UbuntuCE Wallpapers!](https://github.com/mhancoc7/ubuntu-ce-wallpapers#readme)
-[Host Minder!](https://github.com/mhancoc7/hostminder#readme)
-[WorshipExtreme Presenter!](https://github.com/mhancoc7/worship-extreme-presenter#readme)
+[UbuntuCE Welcome](https://github.com/mhancoc7/ubuntu-ce-welcome#readme)
+[UbuntuCE Wallpapers](https://github.com/mhancoc7/ubuntu-ce-wallpapers#readme)
+[Host Minder](https://github.com/mhancoc7/hostminder#readme)
+[WorshipExtreme Presenter](https://github.com/mhancoc7/worship-extreme-presenter#readme)
 
 If you are already running Ubuntu you can use the instructions below to add the UbuntuCE repo and the UbuntuCE packages.
 
