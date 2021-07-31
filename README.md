@@ -34,6 +34,7 @@ Already running Ubuntu? Use the instructions below to added UbuntuCE
 
 #### Enable Universe/Multiverse Repos
 `sudo add-apt-repository universe`
+
 `sudo add-apt-repository multiverse`
 
 #### Add CrossWire PPA
@@ -47,9 +48,13 @@ Already running Ubuntu? Use the instructions below to added UbuntuCE
 
 #### Setup CleanBrowsing
 `sudo apt install resolvconf`
+
 `sudo systemctl enable --now resolvconf.service`
+
 `sudo echo "nameserver 185.228.168.168" >> /etc/resolvconf/resolv.conf.d/head`
+
 `sudo echo "nameserver 185.228.169.168" >> /etc/resolvconf/resolv.conf.d/head`
+
 `sudo resolvconf -u`
 
 Note: Setting up CleanBrowsing will be making changes to your system's network settings. The above commands work on a default Ubuntu installation. 
