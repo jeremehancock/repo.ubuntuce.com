@@ -1,4 +1,4 @@
-# Ubuntu CE Repo
+# UbuntuCE Repo
 
 ## Usage
 
