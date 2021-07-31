@@ -1,3 +1,4 @@
+![Logo](https://raw.githubusercontent.com/mhancoc7/repo.ubuntuce.com/main/logo.png)
 # UbuntuCE Repo
 
 This is the repo for [UbuntuCE](https://ubuntuce.com/).
