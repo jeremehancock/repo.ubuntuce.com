@@ -2,7 +2,7 @@
 
 This is the repo for [UbuntuCE](https://ubuntuce.com/).
 
-It contains all of the UbuntuCE specific pagkages.
+It contains all of the UbuntuCE specific packages.
 
 Including:
 - [UbuntuCE Welcome](https://github.com/mhancoc7/ubuntu-ce-welcome#readme)
