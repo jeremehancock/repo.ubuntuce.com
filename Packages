@@ -42,6 +42,21 @@ Section: system
 Priority: optional
 Description: Welcome to UbuntuCE
 
+Package: ubuntu-ce-welcome
+Version: 0.0.4
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 1300
+Depends: gambas3-runtime, gambas3-gb-gtk, gambas3-gb-gui, gambas3-gb-form, hostminder
+Filename: ./ubuntu-ce-welcome_0.0.4_all.deb
+Size: 4850332
+MD5sum: abbf19db8bfc95bdaec16e25c5953812
+SHA1: 3118b0b9463f39bb98096b43fbc0c06eb3f9afb1
+SHA256: 78fcd44dc14f95228ec876030317719193cc23867ea71d82325a561718e9427b
+Section: system
+Priority: optional
+Description: Welcome to UbuntuCE
+
 Package: worship-extreme-presenter
 Version: 0.0.2
 Architecture: all
