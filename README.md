@@ -1,14 +1,14 @@
-<h1><img src="https://raw.githubusercontent.com/mhancoc7/repo.ubuntuce.com/main/logo.png" height="50" /> UbuntuCE Repo</h1>
+<h1><img src="https://raw.githubusercontent.com/jeremehancock/repo.ubuntuce.com/main/logo.png" height="50" /> UbuntuCE Repo</h1>
 
 This is the repo for [UbuntuCE](https://ubuntuce.com/).
 
 It contains all of the UbuntuCE specific packages.
 
 Including:
-- [UbuntuCE Welcome](https://github.com/mhancoc7/ubuntu-ce-welcome#readme)
-- [UbuntuCE Wallpapers](https://github.com/mhancoc7/ubuntu-ce-wallpapers#readme)
-- [Host Minder](https://github.com/mhancoc7/hostminder#readme)
-- [WorshipExtreme Presenter](https://github.com/mhancoc7/worship-extreme-presenter#readme)
+- [UbuntuCE Welcome](https://github.com/jeremehancock/ubuntu-ce-welcome#readme)
+- [UbuntuCE Wallpapers](https://github.com/jeremehancock/ubuntu-ce-wallpapers#readme)
+- [Host Minder](https://github.com/jeremehancock/hostminder#readme)
+- [WorshipExtreme Presenter](https://github.com/jeremehancock/worship-extreme-presenter#readme)
 
 **Already running Ubuntu? Use the instructions below to setup UbuntuCE.**
 
