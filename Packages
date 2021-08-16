@@ -4,11 +4,11 @@ Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
 Installed-Size: 51.7
 Depends: zenity
-Filename: ./hostminder_0.0.3_all.deb
-Size: 9176
-MD5sum: a2c989a51306ffefd5f543e291823291
-SHA1: 429631feef5af540dd9d3a1244779376b6f298a9
-SHA256: 9bfe5e625bf6a659100c816eeff2800cf00c9aa6f356bf8a945a18d01e56b286
+Filename: ./hostminder_0.0.4_all.deb
+Size: 9684
+MD5sum: 3300d3b0a3869bd0c34099663780a112
+SHA1: 67319b7f67fd78894863c6e3dd2ad37e65eceeba
+SHA256: 5f9b667b46bf5f798e722206e7898fb1fb0c1670fc355541a18b83f1ad0cbeaf
 Section: web
 Priority: optional
 Description: Host Minder
@@ -26,21 +26,6 @@ SHA256: 671e83cfb134b1120621408ba1191506f8d0a2a1cb4538fabb3e6756e79f1094
 Section: x11
 Priority: optional
 Description: Christian Wallpapers for Ubuntu CE
-
-Package: ubuntu-ce-welcome
-Version: 0.0.3
-Architecture: all
-Maintainer: Jereme Hancock <support@ubuntuce.com>
-Installed-Size: 1300
-Depends: gambas3-runtime, gambas3-gb-gtk, gambas3-gb-gui, gambas3-gb-form, hostminder
-Filename: ./ubuntu-ce-welcome_0.0.3_all.deb
-Size: 1714008
-MD5sum: 7a60d05a14b0595084e89798214d3962
-SHA1: 0231c7d19ff033a83a51733e3fc2ba5de7a4cd8b
-SHA256: 1b5d9bc4aa0bda6c690fc628ceef765973b95b183cd139a3ec3429313493d990
-Section: system
-Priority: optional
-Description: Welcome to UbuntuCE
 
 Package: ubuntu-ce-welcome
 Version: 0.0.4
