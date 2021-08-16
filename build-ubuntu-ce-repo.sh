@@ -1,5 +1,12 @@
 #!/bin/bash
 
+echo "Start Fresh"
+rm InRelease
+rm Packages
+rm Packages.gz
+rm Release
+rm Release.gpg
+
 echo "Create Packages & Packages.gz"
 dpkg-scanpackages --multiversion . > Packages
 gzip -k -f Packages

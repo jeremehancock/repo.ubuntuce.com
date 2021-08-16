@@ -1,14 +1,14 @@
 Package: hostminder
-Version: 0.0.3
+Version: 0.0.4
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
 Installed-Size: 51.7
 Depends: zenity
 Filename: ./hostminder_0.0.4_all.deb
 Size: 9684
-MD5sum: 3300d3b0a3869bd0c34099663780a112
-SHA1: 67319b7f67fd78894863c6e3dd2ad37e65eceeba
-SHA256: 5f9b667b46bf5f798e722206e7898fb1fb0c1670fc355541a18b83f1ad0cbeaf
+MD5sum: 1d68448cbee8b1cd4b480f5ac1269397
+SHA1: c8bdf852dd9e6c60bcbc1b1756b4123a87213f78
+SHA256: a907dad5f7685920cef7c41af3be5d8ab2f0a213d7ed137146a0b1c5b77dd02b
 Section: web
 Priority: optional
 Description: Host Minder
