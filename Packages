@@ -1,14 +1,29 @@
+Package: dnsminder
+Version: 0.0.1
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 51.7
+Depends: zenity, resolvconf
+Filename: ./dnsminder_0.0.1_all.deb
+Size: 16252
+MD5sum: 500a4e2b060f2a6a9b5b06a1f3669aad
+SHA1: 3f7525068405e0f79c4f8a61a8d24e7aa447639a
+SHA256: 396ea9eac31213c78de25de7e5a8602258b91c910761397dd3088ed2443347b4
+Section: web
+Priority: optional
+Description: DNS Minder
+
 Package: hostminder
-Version: 0.0.4
+Version: 0.0.5
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
 Installed-Size: 51.7
 Depends: zenity
-Filename: ./hostminder_0.0.4_all.deb
-Size: 9684
-MD5sum: 1d68448cbee8b1cd4b480f5ac1269397
-SHA1: c8bdf852dd9e6c60bcbc1b1756b4123a87213f78
-SHA256: a907dad5f7685920cef7c41af3be5d8ab2f0a213d7ed137146a0b1c5b77dd02b
+Filename: ./hostminder_0.0.5_all.deb
+Size: 10200
+MD5sum: 347fe7155dbc0293deff63c3451b0270
+SHA1: cfb4c1bbe6dc369524ec3aadc8b1e61706b58855
+SHA256: 7afbd4783491bf85fc1d27292b72cea63c7b72ae036c4afe4fa5ca0641ccec3b
 Section: web
 Priority: optional
 Description: Host Minder
@@ -28,16 +43,16 @@ Priority: optional
 Description: Christian Wallpapers for Ubuntu CE
 
 Package: ubuntu-ce-welcome
-Version: 0.0.4
+Version: 0.0.5
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
 Installed-Size: 1300
-Depends: gambas3-runtime, gambas3-gb-gtk, gambas3-gb-gui, gambas3-gb-form, hostminder
-Filename: ./ubuntu-ce-welcome_0.0.4_all.deb
-Size: 4850332
-MD5sum: abbf19db8bfc95bdaec16e25c5953812
-SHA1: 3118b0b9463f39bb98096b43fbc0c06eb3f9afb1
-SHA256: 78fcd44dc14f95228ec876030317719193cc23867ea71d82325a561718e9427b
+Depends: gambas3-runtime, gambas3-gb-gtk, gambas3-gb-gui, gambas3-gb-form, hostminder, dnsminder
+Filename: ./ubuntu-ce-welcome_0.0.5_all.deb
+Size: 11137932
+MD5sum: 90975edaba04d916b57f2ae9467c9ab1
+SHA1: 9addf5d5c8a4b15ca00e6da67f61f182b27e81e0
+SHA256: 6b9948377c47ec631d2e4ed45262433595196b378fbd29856a2cb1126d591471
 Section: system
 Priority: optional
 Description: Welcome to UbuntuCE
