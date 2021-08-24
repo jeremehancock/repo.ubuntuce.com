@@ -14,6 +14,65 @@ Priority: optional
 Description: DNS Minder
 
 Package: hostminder
+Version: 0.0.1
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Depends: zenity
+Filename: ./hostminder_0.0.1_all.deb
+Size: 8448
+MD5sum: d93ee059ca767b97d8b6f20c5fdecf11
+SHA1: ae4e6db5be8ec37ea6360b437b19d882d2c360fe
+SHA256: 9ebba7cd06e8bdd207da3e9b746fcd35b980a03760e980c882b2e70aa4c7e21b
+Section: web
+Priority: optional
+Description: Host Minder
+
+Package: hostminder
+Version: 0.0.2
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 51.7
+Depends: zenity
+Filename: ./hostminder_0.0.2_all.deb
+Size: 8772
+MD5sum: 40c479bc557b7939d2b9876ac238ac6b
+SHA1: 4b2b848830bcced3a728f1d72607b64dded2f4d4
+SHA256: c184b123260cb40de038dae08a64a009028d2f8b5abda73260ece042b53602ea
+Section: web
+Priority: optional
+Description: Host Minder
+
+Package: hostminder
+Version: 0.0.3
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 51.7
+Depends: zenity
+Filename: ./hostminder_0.0.3_all.deb
+Size: 9176
+MD5sum: a2c989a51306ffefd5f543e291823291
+SHA1: 429631feef5af540dd9d3a1244779376b6f298a9
+SHA256: 9bfe5e625bf6a659100c816eeff2800cf00c9aa6f356bf8a945a18d01e56b286
+Section: web
+Priority: optional
+Description: Host Minder
+
+Package: hostminder
+Version: 0.0.4
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 51.7
+Depends: zenity
+Filename: ./hostminder_0.0.4_all.deb
+Size: 9684
+MD5sum: 1d68448cbee8b1cd4b480f5ac1269397
+SHA1: c8bdf852dd9e6c60bcbc1b1756b4123a87213f78
+SHA256: a907dad5f7685920cef7c41af3be5d8ab2f0a213d7ed137146a0b1c5b77dd02b
+Section: web
+Priority: optional
+Description: Host Minder
+
+Package: hostminder
 Version: 0.0.5
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
@@ -41,6 +100,66 @@ SHA256: 671e83cfb134b1120621408ba1191506f8d0a2a1cb4538fabb3e6756e79f1094
 Section: x11
 Priority: optional
 Description: Christian Wallpapers for Ubuntu CE
+
+Package: ubuntu-ce-welcome
+Version: 0.0.1
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 1300
+Depends: gambas3-runtime, gambas3-gb-gtk, gambas3-gb-gui, gambas3-gb-form, hostminder
+Filename: ./ubuntu-ce-welcome_0.0.1_all.deb
+Size: 614560
+MD5sum: 5a933b8282c87e091b39fd58a8b89069
+SHA1: aa35acc230e72e3d3469f586b66b6e382c3f23b7
+SHA256: c5ae697d88d4463a7404bc7f14e06c49a1af69b5b9d72906b50fa2cb2f2dc91d
+Section: system
+Priority: optional
+Description: Welcome to UbuntuCE
+
+Package: ubuntu-ce-welcome
+Version: 0.0.2
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 1300
+Depends: gambas3-runtime, gambas3-gb-gtk, gambas3-gb-gui, gambas3-gb-form, hostminder
+Filename: ./ubuntu-ce-welcome_0.0.2_all.deb
+Size: 1310828
+MD5sum: 1acf35dd3736af053755a8f0da6f4199
+SHA1: 273e39ec19c73b0851921253e633f163001fba55
+SHA256: 848667dd67d4e1de5cbc0fab97cf45d5af7ece7f9569b0b14c24756d301a9e5f
+Section: system
+Priority: optional
+Description: Welcome to UbuntuCE
+
+Package: ubuntu-ce-welcome
+Version: 0.0.3
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 1300
+Depends: gambas3-runtime, gambas3-gb-gtk, gambas3-gb-gui, gambas3-gb-form, hostminder
+Filename: ./ubuntu-ce-welcome_0.0.3_all.deb
+Size: 1714008
+MD5sum: 7a60d05a14b0595084e89798214d3962
+SHA1: 0231c7d19ff033a83a51733e3fc2ba5de7a4cd8b
+SHA256: 1b5d9bc4aa0bda6c690fc628ceef765973b95b183cd139a3ec3429313493d990
+Section: system
+Priority: optional
+Description: Welcome to UbuntuCE
+
+Package: ubuntu-ce-welcome
+Version: 0.0.4
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 1300
+Depends: gambas3-runtime, gambas3-gb-gtk, gambas3-gb-gui, gambas3-gb-form, hostminder
+Filename: ./ubuntu-ce-welcome_0.0.4_all.deb
+Size: 4850332
+MD5sum: abbf19db8bfc95bdaec16e25c5953812
+SHA1: 3118b0b9463f39bb98096b43fbc0c06eb3f9afb1
+SHA256: 78fcd44dc14f95228ec876030317719193cc23867ea71d82325a561718e9427b
+Section: system
+Priority: optional
+Description: Welcome to UbuntuCE
 
 Package: ubuntu-ce-welcome
 Version: 0.0.5
