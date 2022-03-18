@@ -28,6 +28,21 @@ Section: web
 Priority: optional
 Description: DNS Minder
 
+Package: dnsminder
+Version: 0.0.3
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 51.7
+Depends: zenity, resolvconf
+Filename: ./dnsminder_0.0.3_all.deb
+Size: 16408
+MD5sum: 99e1f373e173f5b02f2c478b96104dbe
+SHA1: 880865549e443e051c2ea5b5a0c3ca049de744a7
+SHA256: 79497d229c9778376afe6c4929aa5f366b68481e9659d6f69b0558b6f55c88de
+Section: web
+Priority: optional
+Description: DNS Minder
+
 Package: hostminder
 Version: 0.0.1
 Architecture: all
