@@ -5,10 +5,10 @@ Maintainer: Jereme Hancock <support@ubuntuce.com>
 Installed-Size: 51.7
 Depends: zenity, resolvconf
 Filename: ./dnsminder_0.0.4_all.deb
-Size: 16588
-MD5sum: 8b42ffbab63b55a74d617feb51d6471a
-SHA1: 6dbc7a7e6dd5d68683fb9e05d7a50bb39a20afd9
-SHA256: c18be6d9531fa9d731143844b249c17eb5eb66d29c106e595202155658b37f63
+Size: 16612
+MD5sum: 0e586f4ce35f8d1b7ed0610e74fcb9b9
+SHA1: 677a66d4951c98617e418424c8ad45d7b40d3d88
+SHA256: 0f34a05a2ccb4132bf19ee68da6ca44461e4cd7d3b76ff5b95dcb3b29fa3e656
 Section: web
 Priority: optional
 Description: DNS Minder
