@@ -49,11 +49,11 @@ Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
 Installed-Size: 51.7
 Depends: zenity, resolvconf
-Filename: ./dnsminder_0.0.4_all.deb
-Size: 16568
-MD5sum: ed5855f32037e24b455c4e651afc8453
-SHA1: 794853b0c88ae88deae53b675d71d14566ddb5c8
-SHA256: 7969c69f7c7e375d602e7e5ee6e1a227fd883571c805b67775836f38c7f9a34b
+Filename: ./jammy/dnsminder_0.0.4_all.deb
+Size: 16612
+MD5sum: 0e586f4ce35f8d1b7ed0610e74fcb9b9
+SHA1: 677a66d4951c98617e418424c8ad45d7b40d3d88
+SHA256: 0f34a05a2ccb4132bf19ee68da6ca44461e4cd7d3b76ff5b95dcb3b29fa3e656
 Section: web
 Priority: optional
 Description: DNS Minder
@@ -128,6 +128,21 @@ Size: 10200
 MD5sum: 347fe7155dbc0293deff63c3451b0270
 SHA1: cfb4c1bbe6dc369524ec3aadc8b1e61706b58855
 SHA256: 7afbd4783491bf85fc1d27292b72cea63c7b72ae036c4afe4fa5ca0641ccec3b
+Section: web
+Priority: optional
+Description: Host Minder
+
+Package: hostminder
+Version: 0.0.6
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 51.7
+Depends: zenity
+Filename: ./jammy/hostminder_0.0.6_all.deb
+Size: 10256
+MD5sum: 1f6415cb7fddc8614fa4e47cff989fa4
+SHA1: 11f83a7ee5415a0002bf5f7db1823556261e3bc8
+SHA256: 1e8686da997f2454b0ffb1bb842b6a0d2a199c67f8d43320f5ab0ca0bb138ed8
 Section: web
 Priority: optional
 Description: Host Minder
@@ -236,6 +251,21 @@ Section: system
 Priority: optional
 Description: Welcome to UbuntuCE
 
+Package: ubuntu-ce-welcome
+Version: 0.0.7
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 1300
+Depends: gambas3-runtime, gambas3-gb-gtk3-wayland, gambas3-gb-gui, gambas3-gb-form, hostminder, dnsminder
+Filename: ./jammy/ubuntu-ce-welcome_0.0.7_all.deb
+Size: 54416420
+MD5sum: 8c91d4dc1f9bda0be46c1ce8db0855bf
+SHA1: c2fc492bf1ba286c770be1e2a407e9a4602f2ce3
+SHA256: 21e7b982ef6de7310b646a9c25eb4e6510505004a73a4f941eacc2d4307bd852
+Section: system
+Priority: optional
+Description: Welcome to UbuntuCE
+
 Package: worship-extreme-presenter
 Version: 0.0.2
 Architecture: all
@@ -247,6 +277,21 @@ Size: 138816052
 MD5sum: c0cda1cdb40625a2d7bc22590f5b846f
 SHA1: 2cb66a5950f5df0281da2b36f5cfd74be28956e4
 SHA256: c4467949feeb6d037e5b9602fdc4ac5929e498bd1c9f92fc934e4287d78bb3df
+Section: web
+Priority: optional
+Description: WorshipExtreme Presenter
+
+Package: worship-extreme-presenter
+Version: 0.0.3
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 139000
+Depends: zenity, curl, jq, wget
+Filename: ./jammy/worship-extreme-presenter_0.0.3_all.deb
+Size: 8452
+MD5sum: 5c645fce14235ce3442742dab939c14d
+SHA1: 63611c76248a92a44bb7a5bae7468be88e1db52a
+SHA256: 35becc77b1c0dc8fc4906a83dc5de8e27a6707235466ef94b1def410a6f08730
 Section: web
 Priority: optional
 Description: WorshipExtreme Presenter
