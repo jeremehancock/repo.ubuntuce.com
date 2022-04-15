@@ -1,0 +1,2 @@
+deb [signed-by=/usr/share/keyrings/ubuntuce.gpg] http://repo.ubuntuce.com/jammy ./
+
