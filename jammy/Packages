@@ -28,3 +28,33 @@ Section: web
 Priority: optional
 Description: Host Minder
 
+Package: ubuntu-ce-welcome
+Version: 0.0.7
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 1300
+Depends: gambas3-runtime, gambas3-gb-gtk3-wayland, gambas3-gb-gui, gambas3-gb-form, hostminder, dnsminder
+Filename: ./ubuntu-ce-welcome_0.0.7_all.deb
+Size: 54416420
+MD5sum: 8c91d4dc1f9bda0be46c1ce8db0855bf
+SHA1: c2fc492bf1ba286c770be1e2a407e9a4602f2ce3
+SHA256: 21e7b982ef6de7310b646a9c25eb4e6510505004a73a4f941eacc2d4307bd852
+Section: system
+Priority: optional
+Description: Welcome to UbuntuCE
+
+Package: worship-extreme-presenter
+Version: 0.0.3
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 139000
+Depends: zenity, curl, jq, wget
+Filename: ./worship-extreme-presenter_0.0.3_all.deb
+Size: 8452
+MD5sum: 5c645fce14235ce3442742dab939c14d
+SHA1: 63611c76248a92a44bb7a5bae7468be88e1db52a
+SHA256: 35becc77b1c0dc8fc4906a83dc5de8e27a6707235466ef94b1def410a6f08730
+Section: web
+Priority: optional
+Description: WorshipExtreme Presenter
+
