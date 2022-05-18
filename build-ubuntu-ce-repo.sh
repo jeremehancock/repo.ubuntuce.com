@@ -6,6 +6,10 @@ rm Packages
 rm Packages.gz
 rm Release
 rm Release.gpg
+rm KEY.gpg
+
+echo "Create GPG Key"
+gpg --armor --export "support@ubuntuce.com" > KEY.gpg
 
 echo "Create Packages & Packages.gz"
 dpkg-scanpackages --multiversion . > Packages
