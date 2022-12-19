@@ -1,3 +1,5 @@
 <Files "build-ubuntu-ce-repo.sh">
   Require all denied
 </Files>
+
+RedirectMatch 404 /\.git
